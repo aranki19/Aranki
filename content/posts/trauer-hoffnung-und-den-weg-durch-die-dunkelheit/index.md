@@ -4,6 +4,7 @@ date = "2024-05-06"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
+image = "pexels-matteo-roman-1151921619-21358261-2.jpg"
 +++
 # Trauer, Hoffnung und den Weg durch die Dunkelheit
 
