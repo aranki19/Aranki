@@ -5,6 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "wow.jpg"
+footnotes = "**Quellenangaben**\n\n* oberbergkliniken.de -> Depression\n* Bernerzeitung -> Unfall Aare\n* Trauer und Trauerbewältigung, Hansjörg Znoj-> Buch\n* [www.praxis-psychologische-beratung.ch](http://www.praxis-psychologische-beratung.ch/) -> Bettina Hufschmied\n* Elsbeth Wandeler, Pierre-Steiner, Bettina Hufschmied -> Interviewpartner\n* oberbergkliniken.de -> Depression\n* Bernerzeitung -> Unfall Aare\n* Trauer und Trauerbewältigung, Hansjörg Znoj-> Buch\n* [www.praxis-psychologische-beratung.ch](http://www.praxis-psychologische-beratung.ch/) -> Bettina Hufschmied\n* Elsbeth Wandeler, Pierre-Steiner, Bettina Hufschmied -> Interviewpartner"
 +++
  {{<lead>}}
 
@@ -21,8 +22,6 @@ Während eine Gruppe Mädchen in der kühlen Aare schwammen, verbrachten Jungs d
 ### Die Bedeutung von Trauer
 
 «Jeder Mensch verhält sich verschieden auf Verluste» wird mehrmals in der Praxis in Bern von Bettina Hufschmied, die Psychotherapeutin erwähnt. Laut Frau Hufschmied ist die häufigste erste Reaktion nach dem Verlust eines geliebten Menschen Schock. Dies gilt auch wenn man den Tod erwartet hat. 
-
-
 
 {{<box>}}
 Bettina Hufschmied
