@@ -18,15 +18,18 @@ Während eine Gruppe Mädchen in der kühlen Aare schwammen, verbrachten Jungs d
 
 «Jeder Mensch verhält sich verschieden auf Verluste» wird mehrmals in der Praxis in Bern von Bettina Hufschmied, die Psychotherapeutin erwähnt. Laut Frau Hufschmied ist die häufigste erste Reaktion nach dem Verlust eines geliebten Menschen Schock. Dies gilt auch wenn man den Tod erwartet hat. 
 
-```
+
+
 {{<box>}}
 Bettina Hufschmied
-- 1978 in Burgdorf geboren
-- Fschtitel "Beraterin SGfB"
-- Psychotherapeutin in Ihre eigene Praxis seit 2021
-https://www.praxis-psychologische-beratung.ch/über-mich 
-{{</box>}}
-```
+
+* 1978 in Burgdorf geboren
+* Fschtitel "Beraterin SGfB"
+* Psychotherapeutin in Ihre eigene Praxis seit 2021
+  https://www.praxis-psychologische-beratung.ch/über-mich 
+  {{</box>}}
+
+
 
 Allgemein gibt es zwei vereinfachte Trauerreaktionen: Die einfache und die komplizierte Trauerreaktion. Der Verlauf der einfachen Trauerreaktion besteht darin, sich an die Realität anzupassen, das heisst, sich ohne die verstorbene Person an das Leben zu gewöhnen. Ebenfalls nimmt die Intensität der Trauer nach einiger Zeit ab. Bei der komplizierter Trauerreaktion hingegen kann es zu Verzögerungen der Trauerreaktionen kommen. Sie sind mit starken, impulsiven emotionalen Reaktionen wie Wut, Schuldgefühlen und Angst geprägt und haben keine kontinuierliche Abnahme der Trauerintensität. Die Trauer wird oft nicht als Traurigkeit erlebt. Die Anpassung an die neue Wirklichkeit gelingt dem Trauernden auch nicht. Die Symptomatik einer einfachen Trauerreaktion hält sich mit einem Rückzug und häufigem Weinen begrenzt. Dagegen ist die Symptomatik der komplizierten Trauerreaktion intensiver. Panikattacken, depressive Reaktion, Reizbarkeit, das Gefühl von innerlicher Leere und allgemeine Sinnlosigkeit sind Beispiele dafür. Einfache Trauerreaktionen haben keine gesundheitlichen Folgen, aber soziale Folgen wie kurzfristiger Rückzug aus dem gewohnten sozialen Umfeld. Die Trauernde, welche eine komplizierte Trauerreaktion erleben, haben oft Schlaf- und Essstörungen, erhöhte Anfälligkeit für Infektionserkrankungen, vernachlässigen soziale Interaktionen und Vereinsamen. Die Anerkennung sowohl einfacher als auch komplizierter Trauerreaktion zeigt eine Vielfalt. Frau Hufschmied ist der Meinung, dass anhaltende Symptome der komplizierten Trauer ein Zeichen sind, sich professionelle Hilfe in Anspruch zu nehmen. Ein Alarmzeichen wäre, wenn es über Monate sich genau gleich anfühlt und die Symptome nicht schwächer werden oder Vermeidung und Ablenkung wie zum Beispiel Alkohol- und Drogenkonsum. Diese langhaltende Belastung zeigt sich auch in der Verarbeitung von Trauer. Diese Verarbeitung ist schmerzlich, denn die Realitätsprüfung zeigt, dass die geliebte Person nicht mehr existiert und deshalb die Aufforderung (an das Ich) besteht. Ein Beispiel der klassischen Auffassung der Trauerarbeit ist das Fünf-Stufen Modell nach Kübler-Roll: 1) Verleugnen und Isolation– der Verlust wird verleugnet, nicht wahrgenommen, die Betroffenen ziehen sich zurück; 2) Ärger über das Schicksal, über sich selbst, über die verstorbene Person; 3) Verhandlungsphase – Trauernde versuchen, das Schicksal mit besonderen Verhalten gnädig zu stimmen; 4) Depression – Verlust des Interesses, der Motivation, der Gefühle; 5) Akzeptanz des Geschehenen und damit Abschluss der Trauer. Zweifellos erleben viele Trauernde Zustände, die solchen Phasen entsprechen. Gemäss der Psychotherapeutin ist dieses Modell nicht mehr auf dem neusten Stande und man spricht heutzutage eher von Trauerthemen. Diese vier Themen sind 1) Trauerschmerz – Den Tod zu erfahren und zu trauern 2) Realität und Verlust akzeptieren 3) Sich der Umwelt anpassen- das Leben ohne die Person weiterzuführen (Alltag bewältigen) 4) der verstorbenen Person Platz zu geben ![](<>)hängt auch mit der Akzeptanz zusammen. 
 
