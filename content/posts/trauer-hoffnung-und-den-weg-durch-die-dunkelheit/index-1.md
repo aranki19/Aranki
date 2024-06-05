@@ -6,7 +6,11 @@ pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "wow.jpg"
 +++
- *Die stille Kraft der Trauer: Eine zutiefst menschliche Reise durch Verlust und Schmerz, begleitet von der Suche nach Trost und Heilung*
+ {{<lead>}}
+
+*Die stille Kraft der Trauer: Eine zutiefst menschliche Reise durch Verlust und Schmerz, begleitet von der Suche nach Trost und Heilung*
+
+{{</lead>}}
 
 ### Ehemaliger Mitschüler verunglückt
 
