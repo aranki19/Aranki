@@ -1,6 +1,6 @@
 +++
-title = "Trauer, Hoffnung und den Weg durch die Dunkelheitz"
-date = "2024-06-05"
+title = "Trauer, Hoffnung und den Weg durch die Dunkelheit"
+date = "2024-06-06"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
