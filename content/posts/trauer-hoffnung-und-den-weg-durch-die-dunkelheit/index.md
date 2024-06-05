@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "wow.jpg"
-footnotes = "**Quellenangaben**\n\n* oberbergkliniken.de -> Depression\n* Bernerzeitung -> Unfall Aare\n* Trauer und Trauerbewältigung, Hansjörg Znoj-> Buch\n* [www.praxis-psychologische-beratung.ch](http://www.praxis-psychologische-beratung.ch/) -> Bettina Hufschmied\n* Elsbeth Wandeler, Pierre-Steiner, Bettina Hufschmied -> Interviewpartner\n* oberbergkliniken.de -> Depression\n* Bernerzeitung -> Unfall Aare\n* Trauer und Trauerbewältigung, Hansjörg Znoj-> Buch\n* [www.praxis-psychologische-beratung.ch](http://www.praxis-psychologische-beratung.ch/) -> Bettina Hufschmied\n* Elsbeth Wandeler, Pierre-Steiner, Bettina Hufschmied -> Interviewpartner"
+footnotes = ""
 +++
  {{<lead>}}
 
@@ -53,3 +53,18 @@ im Kanton Bern zu schliessen», berichtet Elsbeth Wandeler als die Präsidentin 
 Überwiegt den nun im Hospiz die Freude oder die Trauer? Pierre-Steiners, der Projektleiter und Elsbeth Wandelers Meinung nach ![](<>)muss es in einem guten Hospiz grundsätzlich ein Gleichgewicht aus beiden geben. «Meistens ist es für die Person, die uns verlässt, nicht wirklich traurig. Es ist viel schwieriger für die Personen, die noch am Leben ist.» Deshalb bietet das Hospiz die Auseinandersetzung mit seiner Trauer an. Sie schauen, ob die Angehörigen über die Beerdigung hinweg noch Unterstützung brauchen und bieten diese auch an. Die Emotionen nach einem Verlust sind abhängig von der Situation und der Beziehung zu der Person. Es kann von Trauer, Wut bis zu Erleichterung sein. Pierre-Steiner berichtet, dass er sich zum Teil erleichtert gefühlt hat, als seine Eltern gestorben sind. «Man merkt, dass es dieser Person nicht gut geht und es besser wäre, wenn sie geht.» Ebenfalls ist es abhängig vom Alter (Kind oder Erwachsene). 
 
 Das kann man am Unfall des Jugendlichen im Muribad erkennen. Dieses Ereignis hat jedes Schulhaus in Muri-Gümligen erreicht und hat zu Unruhe gestiftet. Denn für viele junge Schüler und Schülerinnen war dies ein traumatisches Erlebnis. Die Geschichte soll dazu ermutigen, Trauer als einen natürlichen Teil des Lebens anzuerkennen und Betroffenen Hoffnung auf Heilung und Trost zu geben.
+
+ <hr> 
+
+***Quellenangaben***
+
+* *oberbergkliniken.de -> Depression*
+* *Bernerzeitung -> Unfall Aare*
+* *Trauer und Trauerbewältigung, Hansjörg Znoj-> Buch*
+* *[www.praxis-psychologische-beratung.ch](http://www.praxis-psychologische-beratung.ch/) -> Bettina Hufschmied*
+* *Elsbeth Wandeler, Pierre-Steiner, Bettina Hufschmied -> Interviewpartner*
+* *oberbergkliniken.de -> Depression*
+* *Bernerzeitung -> Unfall Aare*
+* *Trauer und Trauerbewältigung, Hansjörg Znoj-> Buch*
+* *[www.praxis-psychologische-beratung.ch](http://www.praxis-psychologische-beratung.ch/) -> Bettina Hufschmied*
+* *Elsbeth Wandeler, Pierre-Steiner, Bettina Hufschmied -> Interviewpartner*
