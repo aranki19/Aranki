@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Aranki"
-image = "/img/default-author.jpg"
+image = "/media/microsoftteams-image-2-2.png"
 url = "/about/"
 +++
