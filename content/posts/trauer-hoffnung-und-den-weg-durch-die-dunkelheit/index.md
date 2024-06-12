@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "wow.jpg"
-footnotes = ""
+footnotes = "Von Elise Bavaud und Aranki Sivashangar, M26f Gymnasium Kirchenfeld"
 +++
  {{<lead>}}
 
