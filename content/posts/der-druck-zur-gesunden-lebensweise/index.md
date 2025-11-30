@@ -4,7 +4,7 @@ date = "2025-11-30"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage","MA"]
-image = ""
+image = "titelseite.jpg"
 footnotes = "Aranki Sivashangar, M26f Gymnasium Kirchenfeld"
 +++
  {{<lead>}}
