@@ -17,7 +17,12 @@ footnotes = "Aranki Sivashangar, M26f Gymnasium Kirchenfeld"
 Ein Croissant am Brunchbuffet, ein Stück Kuchen am Geburtstag und ein Teller Pasta beim Italiener sind für viele eine willkommene Freude. Für andere der Beginn innerer Zerrissenheit. 
 Sarah Pritz kennt diese Situationen aus unzähligen Beratungsgesprächen. 
 
-![](EingangMedicalCareCenter.jpg)
+
+<figure align="center">
+  <img src="EingangMedicalCareCenter.jpg" alt="Eingang" style="width:50%">
+  <figcaption align="center">Abbildung 1: Eingang Medical Care Center (Aranki Sivashangar)</figcaption>
+</figure>
+
 
 «Ich höre oft, dass Leute sich rechtfertigen müssen, wenn sie bei bestimmten Lebensmitteln Nein sagen. Das löst bei anderen Schuldgefühle aus, obwohl die Person gar kein Mitleid wollte.» 
 In ihrer täglichen Arbeit als Ernährungsberaterin begegnet sie Menschen, die sich selbst überwachen und disziplinieren, aber trotzdem unzufrieden sind. Der Wunsch, «gesund» zu leben, ist längst kein neutraler Vorsatz mehr. Er ist zu einem gesellschaftlichen Ideal geworden und damit auch zu einem Risiko.
@@ -27,7 +32,12 @@ In ihrer täglichen Arbeit als Ernährungsberaterin begegnet sie Menschen, die s
 
 Sarah Pritz ist seit 2018 beruflich als Ernährungsberaterin tätig. Nach einem Nachdiplomstudium in Sporternährung und einem weiteren in Ernährungspsychologie arbeitet sie heute im Medical Center Wankdorf bei Peak Nutrition in Bern. Ihr Ansatz geht über klassische Beratung hinaus. Für sie ist Ernährung nicht nur biochemisch, sondern auch psycho-logisch, gesellschaftlich und kulturell. «Ohne psychologisches Verständnis ist Ernährungsberatung unvollständig», sagt sie. Ihre Klienten sind keine Einzelfälle. Sie spiegeln den gesellschaftlichen Zeitgeist wider: Den Drang zur Kontrolle in einer unkontrollierbaren Welt.
 
-![](SarahPritz.jpg)
+
+<figure align="center">
+  <img src="SarahPritz.jpg" alt="Sarah Pritz" style="width:50%">
+  <figcaption align="center">Abbildung 2: Sarah Pritz am Arbeitsplatz (Aranki Sivashangar)</figcaption>
+</figure>
+
 
 **Gesundheit als Norm**
 
@@ -39,7 +49,11 @@ Gesund essen, Sport treiben und den Körper pflegen, waren früher Ausdrücke vo
 Viele Menschen betreten die Beratung von Sarah Pritz mit dem Wunsch «einfach mal zu schauen». Kein konkretes Ziel, kei-ne offensichtliche Diagnose. Doch unter der Oberfläche liegt häufig eine emotiona-le Überforderung. «Sie sagen nicht: ‘Ich habe eine Essstörung. ’ Sondern: ‘Ich merke, dass mich Essen stresst. ’ Oder: ‘Ich verliere die Freude daran.’» Oft ste-hen am Anfang diffuse Symptome und erst mit gezielter Befragung wird klar, wie tief der Druck reicht.
 In solchen Fällen arbeitet Sarah Pritz mit sogenannten Auslegeordnungen: Sie fragt nach Trainingsgewohnheiten, Alltag, men-talem Zustand und Ernährungsmustern. Besonders wichtig ist das Leitplankensys-tem, das dabei hilft, das eigene Essverhal-ten zu reflektieren: Ist es flexibel? Oder rigide? Wird auswärts Essen bereits zum Stressfaktor, weil es nicht mehr ins Selbstbild passt?
 
-![](WankdorfCenter.jpg)
+<figure align="center">
+  <img src="WankdorfCenter.jpg" alt="Wankdorf Center" style="width:50%">
+  <figcaption align="center">Abbildung 3: Wankdorf Center (Aranki Sivashangar)</figcaption>
+</figure>
+
 
 Ein typisches Beispiel: Ein junger Mann berichtet, regelmässig Eisbaden zu gehen. Die Frage nach dem «Warum» bringt Un-sicherheit: «Ich habe das auf Social Me-dia gesehen.» Für Sarah Pritz ein Indika-tor dafür, wie stark äussere Reize das eigene Verhalten bestimmen können, ohne dass es innerlich stimmig ist.
 Auch Nahrungsergänzungsmittel werden oft reflexartig genommen. «Ich frage dann: Warum genau dieses Präparat? Die Antwort ist oft: Weil ich es gelesen habe. Aber der eigene Bezug fehlt.» Es zeigt sich ein Muster: Orientierung wird ersetzt durch Kontrolle. Und genau diese Kontrol-le wird zur Belastung.
@@ -74,7 +88,11 @@ Sie fordert politische und gesellschaftli-che Veränderungen: Ein gesünderes An
 Auch bei Kindern müsse sich der Umgang mit Ernährung verändern. Begriffe wie «gesund» oder «ungesund» seien proble-matisch. Sie prägen Vorstellungen wie: Lecker =ungesund und bitter = gesund. Dabei könnten Kinder gar nicht fühlen, was «gesund» langfristig bedeutet. 
 «Sie spüren nur, was ihnen schmeckt und wie es ihnen jetzt geht. Deshalb spreche ich lieber von nährstoffreich oder energiereich.»
 
-![](Innenengang.jpg)
+<figure align="center">
+  <img src="Innenengang.jpg" alt="Inneneingang" style="width:50%">
+  <figcaption align="center">Abbildung 4: Inneneingang Peak Nutrition (Aranki Sivashangar)</figcaption>
+</figure>
+
 
 Gesund leben bedeutet für Sarah Pritz: Sich selbst zu spüren, nicht sich selbst zu disziplinieren. Die Gesellschaft müsse dafür Räume schaffen. Und aufhören, Gesundheit mit Leistung, Schlankheit oder moralischer Überlegenheit gleichzu-setzen. Denn erst dann entsteht der Raum, in dem Menschen sich nicht unter Druck gesetzt fühlen, sondern wirklich für sich sorgen können.
 
@@ -83,7 +101,11 @@ Gesund leben bedeutet für Sarah Pritz: Sich selbst zu spüren, nicht sich selbs
 
 **Ein 17-Jähriger, ein Teller Salat und eine Familie in der Krise**
 
-![](Aussicht.jpg)
+
+<figure align="center">
+  <img src="Aussicht.jpg" alt="Aussicht" style="width:50%">
+  <figcaption align="center">Abbildung 5: Aussicht Medical Care Center (Aranki Sivashangar)</figcaption>
+</figure>
 
 Sarah Pritz erinnert sich an einen jungen Klienten, der mit seinem Vater zur Bera-tung kam. 17 Jahre alt, sportlich, leis-tungsorientiert und innerlich völlig verun-sichert. Der Auslöser für die Beratung waren ständige Konflikte zu Hause, meist beim Essen. Der Junge lehnte Mahlzeiten ab, kritisierte jede Zutat: Das Dressing sei zu fettig, das Fleisch zu proteinarm und das Gemüse nicht frisch genug.
 Er trainierte täglich, trackte jede Mahl-zeit, plante akribisch, jedoch war er nie zufrieden. Die Familie fühlte sich von sei-nen Gedanken zunehmend ausgeschlos-sen. Gemeinsames Essen wurde zur Be-lastung, zur Quelle von Schuldgefühlen und Streit. Seine Eltern wussten nicht mehr, wie sie helfen konnten. Sarah Pritz erkannte schnell: Es ging längst nicht mehr um Gesundheit, sondern um Kon-trolle. Der Jugendliche war gefangen im Kreislauf aus Selbstoptimierung, Social-Media-Idealen und dem Wunsch, «es rich-tig zu machen». Konzepte wie «Bulk and Cut» oder Mikronährstofftracking über-nahmen die Kontrolle über seinen Alltag. Dabei übersah er die eigenen Warnsignale.
@@ -99,16 +121,32 @@ Sarah Pritz warnt vor einem Begriff, der überladen ist. «Gesund heisst nicht, 
 Neben dieser professionellen Perspektive zeigt auch das Beispiel von Fifine Boldt, wie sich der Druck zur gesunden Lebens-weise im Alltag einer Jugendlichen be-merkbar macht. Fifine ist 19 Jahre alt, besucht das Gymnasium Kirchenfeld und arbeitet nebenbei in einem Café in Bern. Ihr sportlicher Weg ist vielseitig: Von 2010 bis 2017 war sie im Schwimmen aktiv, anschliessend bis 2023 im Artistic Swimming. Seit 2022 spielt sie Unterwas-serhockey und seit 2024 trainiert sie auch Triathlon.
 Für sie bedeutet ein gesunder Lebensstil, Schule, Arbeit und Training miteinander zu vereinbaren. «Man muss leistungsfähig sein, gut aussehen, sich gesund ernähren und gleichzeitig alles unter einen Hut bringen», so beschreibt sie den Druck, den viele Jugendliche in ihrem Alter spüren. Dieser Anspruch kommt nicht nur von aussen, sondern auch durch soziale Medi-en, die ein bestimmtes Idealbild verstärken.
 
-![](FifineBeimSport.jpg )
+
+<figure align="center">
+  <img src="FifineBeimSport.jpg" alt="Fifine beim Sport" style="width:50%">
+  <figcaption align="center">Abbildung 6: Fifine beim Sport (Fifine Boldt )</figcaption>
+</figure>
+
+
 
 Jedoch empfindet Fifine ihre sportliche Vielfalt auch als Stärke. Das Training sei für sie nicht nur körperlich, sondern auch mental wichtig: «Wenn ich nach einem langen Schultag ins Training gehe, fühle ich mich danach besser, auch wenn es anstrengend war.» Sport bedeutet für sie Ausgleich, Freude und Motivation. Fifi-nes Erfahrung zeigt, dass ein gesunder Lebensstil für junge Menschen zwar oft mit Druck verbunden ist, gleichzeitig aber auch eine Quelle von Selbstvertrauen und Lebensqualität sein kann. Ihr Beispiel er-gänzt die Expertensicht von Sarah Pritz und macht deutlich, wie unterschiedlich Gesundheit erlebt wird, als gesellschaftli-che Erwartung, aber auch als persönliche Ressource.
 
 **Vom persönlichen Druck zum gemeinsamen Auftrag**
-![](Mahlzeit.jpg)
+
+
+<figure align="center">
+  <img src="Mahlzeit.jpg" alt="Mahlzeit" style="width:50%">
+  <figcaption align="center">Abbildung 7: Mahlzeit (Fifine Boldt)</figcaption>
+</figure>
+
 
 Am Ende bleibt die Erkenntnis, dass es nicht reicht, wenn jede und jeder für sich entscheidet, gesund zu leben. Sarah Pritz hat im Gespräch deutlich gemacht, dass es nicht nur um persönliche Disziplin geht. Wenn in Supermärkten acht von zehn Produkten hochverarbeitet sind, dann ist das kein individuelles Versagen, sondern ein gesellschaftliches Problem. Ich stimme ihr zu: Verantwortung darf nicht allein auf einzelne Schultern abgeladen werden. Es braucht Strukturen, die gesunde Ent-scheidungen erleichtern, in Schulen und in den Medien. Was sich ändern müsste, ist klar: Weniger Schulzuweisungen, mehr Unterstützung, weniger Leistungs-druck und mehr Räume für echte Selbst-fürsorge. Gesundheit darf nicht länger als Wettbewerb verstanden werden, bei dem nur die Disziplinierten gewinnen. Sie muss wieder das werden, was sie im Kern ist: Ein Stück Lebensqualität. Nur dann ent-steht eine Gesellschaft, in der Prävention nicht als Zwang empfunden wird, sondern als Chance, sich selbst zu spüren, ohne Angst, ohne Druck und ohne ständige Selbstoptimierung.
 
-![](FifineMitFahrrad.jpg)
+<figure align="center">
+  <img src="FifineMitFahrrad" alt="Fifine mit Fahrrad" style="width:50%">
+  <figcaption align="center">Abbildung 7: Fifine mit Fahrrad (Fifine Boldt)</figcaption>
+</figure>
+
 
 # Quellen
 
