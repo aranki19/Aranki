@@ -1,9 +1,17 @@
-+++ title = "Der Druck zur gesunden Lebensweise" date = "2025-11-30" draft = false pinned = false tags = ["Deutsch", "Reportage", "MA"] footnotes = "Von Aranki Sivashangar, M26f Gymnasium Kirchenfeld" +++
-{{}}
++++
+title = "Der Druck zur gesunden Lebensweise"
+date = "2025-11-30"
+draft = false
+pinned = false
+tags = ["Deutsch", "Reportage","MA"]
+image = ""
+footnotes = "Aranki Sivashangar, M26f Gymnasium Kirchenfeld"
++++
+ {{<lead>}}
 
-Immer mehr Menschen wollen gesund leben – oder fühlen sich dazu gezwungen. Zwischen Fitnessinfluencern, Diättrends und gesellschaftlichem Erwartungsdruck verschwimmen die Grenzen zwi-schen Selbstfürsorge und Selbstzerstörung. Ernäh-rungsberaterin Sarah Pritz berichtet aus ihrem Alltag – und von einem Fall, der alles zeigt.
+*Immer mehr Menschen wollen gesund leben – oder fühlen sich dazu gezwungen. Zwischen Fitness-Influencern, Diättrends und gesellschaftlichem Erwartungsdruck verschwimmen die Grenzen zwi-schen Selbstfürsorge und Selbstzerstörung. Ernäh-rungsberaterin Sarah Pritz berichtet aus ihrem All-tag – und von einem Fall, der alles zeigt.*
 
-{{}}
+{{</lead>}}
 
 
 Ein Croissant am Brunchbuffet, ein Stück Kuchen am Geburtstag und ein Teller Pasta beim Italiener sind für viele eine willkommene Freude. Für andere der Beginn innerer Zerrissenheit. 
