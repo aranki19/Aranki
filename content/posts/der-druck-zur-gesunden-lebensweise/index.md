@@ -143,8 +143,8 @@ Jedoch empfindet Fifine ihre sportliche Vielfalt auch als Stärke. Das Training 
 Am Ende bleibt die Erkenntnis, dass es nicht reicht, wenn jede und jeder für sich entscheidet, gesund zu leben. Sarah Pritz hat im Gespräch deutlich gemacht, dass es nicht nur um persönliche Disziplin geht. Wenn in Supermärkten acht von zehn Produkten hochverarbeitet sind, dann ist das kein individuelles Versagen, sondern ein gesellschaftliches Problem. Ich stimme ihr zu: Verantwortung darf nicht allein auf einzelne Schultern abgeladen werden. Es braucht Strukturen, die gesunde Ent-scheidungen erleichtern, in Schulen und in den Medien. Was sich ändern müsste, ist klar: Weniger Schulzuweisungen, mehr Unterstützung, weniger Leistungs-druck und mehr Räume für echte Selbst-fürsorge. Gesundheit darf nicht länger als Wettbewerb verstanden werden, bei dem nur die Disziplinierten gewinnen. Sie muss wieder das werden, was sie im Kern ist: Ein Stück Lebensqualität. Nur dann ent-steht eine Gesellschaft, in der Prävention nicht als Zwang empfunden wird, sondern als Chance, sich selbst zu spüren, ohne Angst, ohne Druck und ohne ständige Selbstoptimierung.
 
 <figure align="center">
-  <img src="FifineMitFahrrad" alt="Fifine mit Fahrrad" style="width:50%">
-  <figcaption align="center">Abbildung 7: Fifine mit Fahrrad (Fifine Boldt)</figcaption>
+  <img src="FifineMitFahrrad.jpg" alt="Fifine mit Fahrrad" style="width:50%">
+  <figcaption align="center">Abbildung 8: Fifine mit Fahrrad (Fifine Boldt)</figcaption>
 </figure>
 
 
