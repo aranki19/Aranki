@@ -1,5 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: aranki19/Aranki
+  branch: main
+  auth_type: implicit
+  app_id: YOUR_GITHUB_OAUTH_APP_CLIENT_ID
 
 media_folder: "content/media"
 public_folder: "/media"
