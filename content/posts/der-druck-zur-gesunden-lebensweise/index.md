@@ -112,4 +112,38 @@ Am Ende bleibt die Erkenntnis, dass es nicht reicht, wenn jede und jeder für si
 
 # Quellen
 
+Titelblatt: Herz-Kreislauf
+Cura Natural
+[Pitaya: Valor nutricional, benefícios, como consumir, receitas e contraindicações | Cura Natural](https://www.naturalcura.com.br/beneficios-da-pitaya/) (abgerufen am 09.08.2025)
 
+Abbildung 1: Eingang Medical Care Center
+Aranki Sivashangar
+(abgerufen am 02.08.2025)
+
+Abbildung 2: Sarah Pritz am Arbeitsplatz
+Aranki Sivashangar
+(abgerufen am 02.08.2025)
+
+Abbildung 3: Wankdorf Center
+Aranki Sivashangar
+(abgerufen am 02.08.2025)
+
+Abbildung 4: Inneneingang Peak Nutrition
+Aranki Sivashangar
+(abgerufen am 02.08.2025)
+
+Abbildung 5: Aussicht Medical Care Center
+Aranki Sivashangar
+(abgerufen am 02.08.2025)
+
+Abbildung 6: Fifine beim Sport
+Fifine Boldt
+(abgerufen am 31.08.2025)
+
+Abbildung 7: Mahlzeit
+Fifine Boldt
+(abgerufen am 31.08.2025)
+
+Abbildung 8: Fifine mit Fahrrad
+Fifine Boldt
+(abgerufen am 31.08.2025)
